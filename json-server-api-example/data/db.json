@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "email": "thais.bertoldo@gupy.com.br",
+      "password": "$2a$10$ECoJeLHn/nfzomrRKOqvquId1jnXIpTqkXtTKNKv7X0O2A1o34ieC",
+      "id": 1
+    }
+  ],
+  "talents": [
+    {
+      "id": 1,
+      "name": "Thais",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/194/194938.png",
+      "education": "Pós graduacão completa"
+    },
+    {
+      "name": "Pedro",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/147/147144.png",
+      "education": "Graduação completa",
+      "id": 2
+    },
+    {
+      "name": "Clara",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/168/168734.png",
+      "education": "Graduação completa",
+      "id": 3
+    },
+    {
+      "name": "teste",
+      "avatarUrl": "https://cdn-icons-png.flaticon.com/512/219/219969.png",
+      "education": "Graduação completa",
+      "id": 4
+    }
+  ]
+}
